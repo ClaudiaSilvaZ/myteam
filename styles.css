@@ -1,0 +1,17 @@
+.navbar-dark .navbar-brand {
+    color: #3267ab;
+}
+
+.jumbotron {
+background-image: url(fans.jpg);
+background-size: cover;
+}
+.display-4 {
+  color: #ffff;
+  font-weight: bold;
+  font-family: 'Roboto Slab', serif; 
+}
+
+.jumbotron img{
+    height: 250px;
+}
